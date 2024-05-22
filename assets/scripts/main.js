@@ -81,7 +81,7 @@ function initFormHandler() {
 				recipeObject[key] = value;
 
 			});
-		console.log(recipeObject);
+		//console.log(recipeObject);
 		
 	// B6. TODO - Create a new <recipe-card> element
 		let recipe_card = document.createElement("recipe-card");
